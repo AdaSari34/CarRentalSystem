@@ -1,0 +1,2 @@
+Araç Markası: Audi - Model: A3 - Model Yılı: 2012 - Yakıt Türü: Dizel - Vites Türü: Otomatik - Durum: İkinci el - Kilometre: 20000 - Güç: 300 HP - Renk: yeşil - Kiralama Süresi: Haftalık - Fiyat: 50000 TL
+Araç Markası: as - Model: aaa - Model Yılı: a - Yakıt Türü: Dizel - Vites Türü: Otomatik - Durum: Sıfır - Kilometre: aa - Güç: a HP - Renk: a - Kiralama Süresi: Haftalık - Fiyat: 4 TL
