@@ -1,27 +1,38 @@
 # 🚗 Car Rental System
 
-This is a simple **Car Rental System** developed in **Java**. It allows users to manage customers, vehicles, and rental operations with a basic structure and object-oriented approach.
+This project is a **Java-based desktop application** for managing a car rental business. It allows users to manage vehicles, customers, and reservations through an intuitive graphical user interface.
 
-## 📌 Features
+---
 
-- 🧍 Customer registration and management  
-- 🚙 Vehicle management (add, list, availability control)  
-- 📅 Rental operations (assigning vehicles to customers, returning)  
-- ✅ Simple console-based interface  
-- 🧠 Object-Oriented Programming principles applied (classes, encapsulation, inheritance etc.)
+## 📌 Project Description
 
-## 🛠️ Technologies Used
+The **Car Rental System** provides essential functionalities such as:
+- Adding and listing vehicles
+- Adding and managing customer information
+- Creating rental reservations
+- Viewing rental history
+- Saving and loading data using file operations
 
-- **Java SE** (Standard Edition)
-- **JDK 17+** recommended
-- **No GUI** – this is a console application (can be extended)
-- **No database** – uses in-memory structures like ArrayList (can be extended to JDBC or file-based persistence)
+The application was built with user experience in mind, offering a simple and clear interface for managing rental operations efficiently.
 
-## 💡 How to Run
+---
 
-1. Make sure Java JDK is installed on your system.
-2. Clone or download this repository.
-3. Open the project in any Java IDE (e.g. Eclipse, IntelliJ IDEA, NetBeans) or compile from terminal:
-   ```bash
-   javac *.java
-   java MainClassName
+## 🛠️ Technologies & Features Used
+
+| Feature | Description |
+|--------|-------------|
+| 🧮 **Java SE** | Core language used for application logic |
+| 💻 **Java Swing** | Used for building the GUI (Graphical User Interface) |
+| 📁 **File I/O (FileReader / FileWriter)** | Used for saving and reading rental and customer data |
+| 🗂️ **OOP Concepts** | Classes like `Customer`, `Vehicle`, `Rental`, and encapsulation principles |
+| 🔢 **ArrayLists and Iterators** | To store and manage data in memory |
+| ✅ **Exception Handling** | To ensure robustness during file and input operations |
+
+---
+
+## 📦 How to Run
+
+1. Clone or download the project files.
+2. Open the project in an IDE like **IntelliJ IDEA** or **Eclipse**.
+3. Run the main class (e.g., `Main.java`) to launch the GUI.
+4. Start renting cars 🚘!
